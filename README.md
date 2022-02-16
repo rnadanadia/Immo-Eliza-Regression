@@ -21,5 +21,5 @@ The requirements are :
 7. statsmodels
 
 # Timeline
-Duration: 4 days
-Deadline: 16/02/2022 12:30
+- Duration: 4 days
+- Deadline: 16/02/2022 12:30
