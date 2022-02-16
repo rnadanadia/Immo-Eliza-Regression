@@ -1,6 +1,4 @@
-#Immo-Eliza-Regression
 
-Pimp up the README file:
 # Description
 
 The real estate company "ImmoEliza" wants to create a machine learning model to predict prices on Belgium's real estate sales.
@@ -14,13 +12,13 @@ The requirements are :
 
 
 # Installation
-Python 3.9
-Pandas
-Numpy
-matplotlib
-seaborn
-sklearn
-statsmodels
+1. Python 3.9
+2. Pandas
+3. Numpy
+4. matplotlib
+5. seaborn
+6. sklearn
+7. statsmodels
 
 # Timeline
 Duration: 4 days
